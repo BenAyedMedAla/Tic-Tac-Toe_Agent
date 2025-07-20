@@ -59,7 +59,9 @@ Q(s, a) ← Q(s, a) + α * [r + γ * max_a' Q(s', a') - Q(s, a)]
 ### ⚙️ Hyperparameters:
 
 epsilon=1.0       # exploration rate
+
 alpha=0.1         # learning rate
+
 gamma=0.9         # discount factor
 
 ### 📈 Future Improvements
