@@ -43,6 +43,7 @@ python evaluation/play_against_human.py
 3 | 4 | 5
 ---------
 6 | 7 | 8
+---------
 
 ### 🧠 Learning Algorithm
 We use Q-Learning, an off-policy reinforcement learning algorithm. The agent updates its Q-values using the Bellman equation:
